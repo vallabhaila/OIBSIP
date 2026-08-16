@@ -33,5 +33,34 @@ The program allows users to generate random passwords by specifying the password
 4. Open the terminal.
 5. Run:
 
+## Example Output
+
+The program generates a random password based on the selected length and character types.
+
+![Random Password Generator Output](password-generator-output.png)
+
+## How to Run
+
+1. Make sure Python is installed.
+2. Open the project in VS Code or any Python IDE.
+3. Run `main.py`.
+4. Follow the instructions displayed by the program.
+5. Enter the required password length and character options.
+6. The program generates a random password.
+
+## Technologies Used
+
+- Python
+- Python Standard Library
+- VS Code
+
+## Project Structure
+
+```text
+Python-Task3-RandomPasswordGenerator/
+├── main.py
+├── README.md
+└── password-generator-output.png
+
 ```bash
 python main.py
