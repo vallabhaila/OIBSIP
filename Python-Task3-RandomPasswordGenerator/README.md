@@ -1,40 +1,37 @@
 # 🔐 Random Password Generator
 
-A Python-based Random Password Generator that creates random passwords using customizable character types and user-defined password length.
-
 ## 📌 Project Overview
 
-This project was developed as part of the **Oasis Infobyte Python Programming Internship**.
+This project is a Python-based Random Password Generator developed as part of my Oasis Infobyte Python Programming Internship.
 
-The program allows users to generate random passwords by selecting different character types such as:
+The program allows users to generate random passwords by specifying the password length and selecting the character types they want to include.
 
+## ✨ Features
+
+- Minimum password length of 8 characters
 - Uppercase letters
 - Lowercase letters
 - Digits
 - Symbols
-
-Users can also specify the required password length.
-
-## ✨ Features
-
-- 🔢 Custom password length
-- 🔠 Uppercase letters
-- 🔡 Lowercase letters
-- 🔢 Digits
-- 🔣 Symbols
-- 🔀 Random password generation
-- ✅ Minimum password length validation
-- ⚠️ Character-type selection validation
+- Requires at least 2 character types
+- Validates user input
+- Generates random passwords
+- Guarantees that selected character types are included
+- Allows users to generate multiple passwords without restarting
 
 ## 🛠️ Technologies Used
 
 - Python
-- `random` module
-- `string` module
+- Random module
+- String module
 
 ## ▶️ How to Run
 
-### 1. Clone the repository
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open the `Python-Task3-RandomPasswordGenerator` folder in VS Code.
+4. Open the terminal.
+5. Run:
 
 ```bash
-git clone https://github.com/vallabhaila/OIBSIP.git
+python main.py
