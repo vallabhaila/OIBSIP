@@ -56,11 +56,16 @@ The program generates a random password based on the selected length and charact
 
 ## Project Structure
 
-```text
 Python-Task3-RandomPasswordGenerator/
 ├── main.py
 ├── README.md
 └── password-generator-output.png
 
-```bash
-python main.py
+## 👨‍💻 Author
+
+**Vallabh Aila**
+
+- GitHub: [@vallabhaila](https://github.com/vallabhaila)
+- Project: Random Password Generator
+- Internship: Oasis Infobyte Python Programming Internship
+
